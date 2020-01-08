@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09375"
+   height="242.94"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="gbr-3.17.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.68020386"
+     inkscape:cx="305.25799"
+     inkscape:cy="47.238774"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1325"
+     inkscape:window-height="744"
+     inkscape:window-x="1401"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-global="true" />
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         id="path3837"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyTriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyTriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path4027"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,-4.8,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="envelope"
+       id="path-effect4030"
+       is_visible="true"
+       yy="true"
+       xx="true"
+       bendpath1="m -63.147141,372.73523 191.015621,0"
+       bendpath2="m 127.86848,372.73523 0,189.21875"
+       bendpath3="m -63.147141,561.95398 191.015621,0"
+       bendpath4="m -63.147141,372.73523 0,189.21875" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1861.7972)">
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4334"
+       width="742.08997"
+       height="240.94176"
+       x="1.0018921"
+       y="1862.7963" />
+    <g
+       id="g4458"
+       transform="matrix(-1,0,0,1,741.62806,1057.5796)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4280"
+         d="m 254.52415,974.79006 225.31921,0"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 4;stroke-dashoffset:0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.4pt;stroke-linejoin:miter"
+         d="m 479.85202,974.79006 -6,4 14,-4 -14,-4 z"
+         id="path4276"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g4504"
+       transform="translate(0.24999885,-0.79617735)">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path3773"
+         d="m 0.75189327,1863.5925 0,22.1875 159.28125673,0 14.21875,-14.259 0,-7.9285 z"
+         style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3769"
+         y="1878.9137"
+         x="6.2964921"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="1878.9137"
+           x="6.2964921"
+           id="tspan3771"
+           sodipodi:role="line">ud Extend dengan condition</tspan></text>
+    </g>
+    <g
+       id="g3042"
+       transform="translate(-364.91283,1059.5819)">
+      <path
+         transform="translate(275.0291,932.37481)"
+         d="m 344.54197,40.412987 c 0,22.255587 -36.98552,40.297306 -82.60947,40.297306 -45.62396,0 -82.60948,-18.041719 -82.60948,-40.297306 0,-22.255588 36.98552,-40.29730631 82.60948,-40.29730631 45.62395,0 82.60947,18.04171831 82.60947,40.29730631 z"
+         sodipodi:ry="40.297306"
+         sodipodi:rx="82.609474"
+         sodipodi:cy="40.412987"
+         sodipodi:cx="261.9325"
+         id="path3058"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4419-3"
+         y="969.51239"
+         x="537.28094"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           id="tspan3834"
+           y="969.51239"
+           x="537.28094"
+           sodipodi:role="line">Merubah Pesanan</tspan><tspan
+           y="982.54425"
+           x="537.28094"
+           sodipodi:role="line"
+           id="tspan4292"
+           style="font-size:10px">(Modify Order)</tspan></text>
+    </g>
+    <g
+       transform="translate(35.087174,1059.5819)"
+       id="g4433">
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path4435"
+         sodipodi:cx="261.9325"
+         sodipodi:cy="40.412987"
+         sodipodi:rx="82.609474"
+         sodipodi:ry="40.297306"
+         d="m 344.54197,40.412987 c 0,22.255587 -36.98552,40.297306 -82.60947,40.297306 -45.62396,0 -82.60948,-18.041719 -82.60948,-40.297306 0,-22.255588 36.98552,-40.29730631 82.60948,-40.29730631 45.62395,0 82.60947,18.04171831 82.60947,40.29730631 z"
+         transform="translate(275.0291,932.37481)" />
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="537.28094"
+         y="969.51239"
+         id="text4437"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="537.28094"
+           y="969.51239"
+           id="tspan4439">Minta Persetujuan</tspan><tspan
+           style="font-size:10px"
+           id="tspan4441"
+           sodipodi:role="line"
+           x="537.28094"
+           y="982.54425">(Get Approval)</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="316.7811"
+       y="2046.7095"
+       id="text4462"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4464"
+         x="316.7811"
+         y="2046.7095">&lt;&lt;extend&gt;&gt;</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 4;stroke-dashoffset:0"
+       d="M 362.4426,170.12048 506.14639,92.336"
+       id="path4526"
+       inkscape:connector-curvature="0"
+       transform="translate(0,1861.7972)"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g5803"
+       transform="matrix(0.48658152,0,0,0.48508465,549.96199,1308.315)"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:2.05832267;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+      <path
+         transform="translate(0,637.90448)"
+         id="rect5766"
+         d="m -343.71528,543.375 0,150.375 506.05903,0 0,-112.65625 -37.75,-37.71875 z"
+         style="color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.05832267;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5780"
+         d="m 162.15183,1218.9982 -37.75,-37.7187 0,37.7187 37.75,0 z"
+         style="color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.05832267;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="392.83554"
+       y="1913.4836"
+       id="text5807"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5809"
+         x="392.83554"
+         y="1913.4836">Condition: {Pelanggan memilih PANDUAN}</tspan><tspan
+         sodipodi:role="line"
+         x="392.83554"
+         y="1928.4836"
+         id="tspan4524">Extension Point: pilihan</tspan></text>
+  </g>
+</svg>

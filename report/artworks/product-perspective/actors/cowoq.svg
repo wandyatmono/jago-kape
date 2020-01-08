@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="cowoq.svg">
+  <defs
+     id="defs4">
+    <marker
+       orient="auto"
+       markerHeight="3"
+       markerWidth="4"
+       markerUnits="strokeWidth"
+       refY="5"
+       refX="10"
+       viewBox="0 0 10 10"
+       id="ArrowStart">
+      <path
+         inkscape:connector-curvature="0"
+         id="path10"
+         d="M 10,0 0,5 10,10 z" />
+    </marker>
+    <marker
+       orient="auto"
+       markerHeight="3"
+       markerWidth="4"
+       markerUnits="strokeWidth"
+       refY="5"
+       refX="0"
+       viewBox="0 0 10 10"
+       id="ArrowEnd">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7"
+         d="M 0,0 10,5 0,10 z" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="6.6523118"
+     inkscape:cx="9.5974006"
+     inkscape:cy="32.417455"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1319"
+     inkscape:window-height="744"
+     inkscape:window-x="41"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-988.36218)">
+    <g
+       id="g2992"
+       transform="matrix(1.1296958,0,0,1.1296958,-45.858718,-128.18642)">
+      <path
+         id="path3831"
+         d="m 68.922345,988.36218 -0.636136,0.36805 -23.264382,13.43157 -0.631592,0.3635 0,0.7315 0,26.8631 0,0.7316 0.631592,0.3635 23.264382,13.4315 0.636136,0.3681 0.631591,-0.3681 23.264384,-13.4315 0.631592,-0.3635 0,-0.7316 0,-26.8631 0,-0.7315 -0.631592,-0.3635 -23.264384,-13.43157 -0.631591,-0.36805 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3011-5"
+         d="m 68.917804,991.2884 22.001199,12.7 0,25.4 -22.001199,12.7 -21.996657,-12.7 0,-25.4 21.996657,-12.7 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:17.41614342;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+      <path
+         id="path3836"
+         d="m 69.820893,998.76893 c -1.413726,-0.0134 -3.407584,0.26443 -5.597546,1.64607 -0.447637,0.2824 -3.855022,1.6001 -5.201867,7.1064 -0.579408,2.3687 -0.301363,4.8423 -0.242683,7.2857 0.03272,1.3624 0.386234,2.1576 0.896873,2.6854 0.365608,0.3779 0.453048,0.8303 0.611985,1.2503 0.1785,0.4718 0.539405,0.6792 0.749153,0.9127 0.43888,0.4886 0.625104,1.1148 0.685845,1.7146 0.131241,1.2961 0.574939,1.9074 0.859943,2.5746 0.31533,0.7382 0.588879,1.5294 0.221581,2.5165 -0.116196,0.3123 -0.326029,0.5296 -0.685845,0.612 -0.462471,0.1059 -0.506642,-0.1577 -1.714611,0.9496 -1.091081,1.0003 -2.048034,2.0012 -3.244572,2.4427 -1.817744,0.6708 -3.638206,1.2371 -5.460378,1.683 l 17.219973,9.9394 16.871775,-9.739 c -1.275948,-0.4889 -2.553878,-0.9555 -3.856557,-1.3242 -0.758832,-0.4663 -1.53333,-1.0222 -2.516522,-2.3846 -0.294193,-0.4077 -0.597566,-0.7725 -0.970733,-0.8969 -1.32777,-0.4425 -2.013621,-1.6218 -1.677681,-4.0254 0.219325,-1.5692 0.758404,-1.7422 1.118454,-3.0388 0.139746,-0.5032 0.141391,-0.5189 0.14772,-0.6805 0.02068,-0.5282 0.164019,-0.7493 0.353474,-1.0499 0.6072,-0.9636 1.242726,-1.8045 1.434997,-2.2369 0.267258,-0.6011 1.226219,-3.2143 0.859944,-4.4211 -0.05737,-0.189 -0.198129,-0.3458 -0.353474,-0.5012 -0.287366,-0.8156 -0.359298,-2.4344 -0.300716,-3.9357 0.07117,-1.8239 -0.137784,-3.2916 -0.801911,-4.4896 -0.687818,-1.2407 -1.875447,-2.3518 -4.004276,-2.8331 -1.049308,-0.2372 -2.140826,-0.2898 -3.075749,-1.17647 -0.246874,-0.23414 -0.541523,-0.43204 -1.118454,-0.50119 -0.327838,-0.0393 -0.7369,-0.0799 -1.208142,-0.0844 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:17.41614342;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

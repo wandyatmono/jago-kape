@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with sK1/UniConvertor (http://sk1project.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 409.60002 409.59998"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Logo Puskesmas Baru.cdr"
+   style="fill-rule:evenodd">
+  <metadata
+     id="metadata38">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1325"
+     inkscape:window-height="744"
+     id="namedview36"
+     showgrid="false"
+     inkscape:zoom="0.70836835"
+     inkscape:cx="150.83848"
+     inkscape:cy="327.83814"
+     inkscape:window-x="1401"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <marker
+       id="ArrowEnd"
+       viewBox="0 0 10 10"
+       refX="0"
+       refY="5"
+       markerUnits="strokeWidth"
+       markerWidth="4"
+       markerHeight="3"
+       orient="auto">
+      <path
+         d="M 0,0 10,5 0,10 z"
+         id="path7"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       id="ArrowStart"
+       viewBox="0 0 10 10"
+       refX="10"
+       refY="5"
+       markerUnits="strokeWidth"
+       markerWidth="4"
+       markerHeight="3"
+       orient="auto">
+      <path
+         d="M 10,0 0,5 10,10 z"
+         id="path10"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <g
+     id="g12"
+     transform="matrix(0.91665309,0,0,0.91665309,-87.431287,-112.46969)">
+    <g
+       id="g14">
+      <g
+         id="g16">
+        <path
+           style="fill:#ffffff;stroke:none"
+           d="m 318.802,122.696 193.489,111.711 0,223.42 -193.489,111.712 -193.488,-111.712 0,-223.42 193.488,-111.711 z"
+           id="path18"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#19b502;stroke:none"
+           d="m 318.802,122.696 193.489,111.711 0,223.42 -193.489,111.712 -193.488,-111.712 0,-223.42 193.488,-111.711 z m 0,18.516 88.726,51.227 88.727,51.226 0,102.452 0,102.452 -88.727,51.227 -88.726,51.227 -88.725,-51.227 -88.727,-51.227 0,-102.452 0,-102.452 88.727,-51.226 88.725,-51.227 z"
+           id="path20"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#44f907;stroke:none"
+           d="m 367.003,388.537 0,100.667 -88.285,0 0,-100.667 -21.245,0 83.316,-66.12 26.214,-20.803 1.292,-1.025 99.374,66.936 0,21.012 -100.666,0 z"
+           id="path22"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#19b502;stroke:none"
+           d="m 385.948,300.252 81.721,0 0,54.9 -81.721,-54.9 z"
+           id="path24"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#19b502;stroke:none"
+           d="m 178.052,388.537 0,-88.285 100.666,0 0,-100.666 88.285,0 0,88.254 -88.285,70.046 0,-0.001 -38.633,30.652 -62.033,0 z"
+           id="path26"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#19b502;stroke:none"
+           d="m 383.901,340.679 c 8.889,0 16.097,7.27 16.097,16.234 0,8.966 -7.208,16.236 -16.097,16.236 -8.887,0 -16.095,-7.27 -16.095,-16.236 0,-8.964 7.208,-16.234 16.095,-16.234 z"
+           id="path28"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#19b502;stroke:none"
+           d="m 357.297,340.679 c 8.89,0 16.098,7.27 16.098,16.234 0,8.966 -7.208,16.236 -16.098,16.236 -8.886,0 -16.094,-7.27 -16.094,-16.236 0,-8.964 7.208,-16.234 16.094,-16.234 z"
+           id="path30"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ffffff;stroke:none"
+           d="m 383.902,336.326 c 11.291,0 20.448,9.219 20.448,20.588 0,11.369 -9.157,20.588 -20.448,20.588 -5.079,0 -9.727,-1.867 -13.303,-4.954 -3.575,3.087 -8.222,4.954 -13.301,4.954 -11.291,0 -20.448,-9.219 -20.448,-20.588 0,-11.369 9.157,-20.588 20.448,-20.588 5.079,0 9.726,1.867 13.301,4.953 3.576,-3.086 8.224,-4.953 13.303,-4.953 z m -16.281,33.042 c -2.614,-3.458 -4.168,-7.773 -4.168,-12.454 0,-4.681 1.554,-8.997 4.168,-12.455 -2.794,-2.36 -6.395,-3.781 -10.324,-3.781 -8.887,0 -16.095,7.271 -16.095,16.236 0,8.964 7.208,16.235 16.095,16.235 3.929,0 7.53,-1.421 10.324,-3.781 z m 5.958,-24.91 c 2.614,3.459 4.167,7.775 4.167,12.456 0,4.681 -1.553,8.996 -4.167,12.456 2.794,2.359 6.394,3.779 10.322,3.779 8.888,0 16.097,-7.271 16.097,-16.235 0,-8.965 -7.209,-16.236 -16.097,-16.236 -3.928,0 -7.528,1.42 -10.322,3.78 z m -2.98,3.313 c 1.763,2.604 2.795,5.752 2.795,9.143 0,3.39 -1.032,6.539 -2.795,9.142 -1.762,-2.603 -2.793,-5.752 -2.793,-9.142 0,-3.391 1.031,-6.539 2.793,-9.143 z"
+           id="path32"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="g34"
+     transform="translate(0,-432.29006)" />
+</svg>

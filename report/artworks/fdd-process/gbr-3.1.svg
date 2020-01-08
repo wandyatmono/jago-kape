@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="744.09003"
+   height="1052.36"
+   sodipodi:docname="gbr-3.1.svg"
+   inkscape:export-filename="/home/wandyatmono/projects/jago/references/fdd/Perangkat Pendukung Featured Driven Development/The five processes of the FDD method.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM"
+       style="overflow:visible">
+      <path
+         id="path4007"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path3973"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.8,0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         id="path3852"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path3834"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1325"
+     inkscape:window-height="744"
+     id="namedview4"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.5"
+     inkscape:cx="412.72496"
+     inkscape:cy="582.42227"
+     inkscape:window-x="1401"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     height="1052.36px" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect3072"
+     width="742.08997"
+     height="1050.36"
+     x="0"
+     y="2.0000265" />
+  <text
+     xml:space="preserve"
+     style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     x="22.159456"
+     y="-175.20415"
+     id="text2999"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       x="22.159456"
+       y="-175.20415"
+       id="tspan3001"
+       style="font-size:10px;fill:#ffffff;fill-opacity:1" /></text>
+  <rect
+     style="color:#000000;fill:#c6c6c6;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.023;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect3805"
+     width="155.14354"
+     height="212.35667"
+     x="61.979889"
+     y="14.958846"
+     ry="11.062101"
+     rx="11.059868" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.04500008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutM)"
+     d="m 218.28465,121.1372 43.31386,0"
+     id="path3825"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text5031"
+     y="35.694122"
+     x="139.0594"
+     style="font-size:12.24873924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     xml:space="preserve"
+     transform="scale(0.99989903,1.000101)"><tspan
+       style="font-size:12.24873924px;font-weight:500;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="35.694122"
+       x="139.0594"
+       sodipodi:role="line"
+       id="tspan4776">Pengembangan</tspan><tspan
+       style="font-size:12.24873924px;font-weight:500;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="51.005047"
+       x="139.0594"
+       sodipodi:role="line"
+       id="tspan5063">Seluruh Model</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path4316"
+     d="m 428.24182,121.1372 43.31387,0"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.04500008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutM)" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.04500008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutM)"
+     d="m 480.74908,471.13648 -43.31387,0"
+     id="path4338"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path4364"
+     d="m 559.46605,227.9668 0,51.45008"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.04500008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.04500008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutM)"
+     d="m 559.46605,300.1727 0,54.13432"
+     id="path4574"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path4578"
+     d="m 137.76762,288.67882 411.78436,0"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.04500008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="rect4384"
+     width="16.950468"
+     height="16.950468"
+     x="591.27307"
+     y="-200.01126"
+     transform="matrix(0.70703539,0.70717817,-0.70703539,0.70717817,0,0)" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path4580"
+     d="m 139.55166,288.54303 0,-50.47169"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.04500008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutM)" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 61.415674,67.011183 156.155226,0"
+     id="path4770"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-size:12.24873924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     x="139.0594"
+     y="82.939224"
+     id="text4772"
+     sodipodi:linespacing="125%"
+     transform="scale(0.99989903,1.000101)"><tspan
+       id="tspan4774"
+       sodipodi:role="line"
+       x="139.0594"
+       y="82.939224"
+       style="font-size:12.24873924px;font-weight:500;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium">Develop an Overall Model</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path4778"
+     d="m 61.415674,89.761133 156.155226,0"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text4780"
+     y="117.93559"
+     x="65.968712"
+     style="font-size:12.24873924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     xml:space="preserve"
+     transform="scale(0.99989903,1.000101)"><tspan
+       style="font-size:10.49891949px;font-weight:500;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="117.93559"
+       x="65.968712"
+       sodipodi:role="line"
+       id="tspan4784">Penelusuran Domain</tspan><tspan
+       style="font-size:8.74909878px;font-style:italic;font-weight:500;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium Italic"
+       y="129.28505"
+       x="65.968712"
+       sodipodi:role="line"
+       id="tspan3111">Domain Walkthrough</tspan><tspan
+       style="font-size:10.49891949px;font-weight:500;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="140.22142"
+       x="65.968712"
+       sodipodi:role="line"
+       id="tspan4970" /><tspan
+       style="font-size:10.49891949px;font-weight:500;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="152.93198"
+       x="65.968712"
+       sodipodi:role="line"
+       id="tspan4786">Pemodelan Domain</tspan><tspan
+       style="font-size:8.74909878px;font-style:italic;font-weight:500;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium Italic"
+       y="164.28145"
+       x="65.968712"
+       sodipodi:role="line"
+       id="tspan3113">Domain Modelling</tspan></text>
+  <rect
+     rx="11.059868"
+     ry="11.062101"
+     y="14.958846"
+     x="271.93707"
+     height="212.35667"
+     width="155.14354"
+     id="rect4788"
+     style="color:#000000;fill:#c6c6c6;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.023;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <text
+     xml:space="preserve"
+     style="font-size:12.24873924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     x="349.03778"
+     y="35.694122"
+     id="text4790"
+     sodipodi:linespacing="125%"
+     transform="scale(0.99989903,1.000101)"><tspan
+       id="tspan4794"
+       sodipodi:role="line"
+       x="349.03778"
+       y="35.694122"
+       style="font-size:12.24873924px;font-weight:500;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium">Pembangunan</tspan><tspan
+       sodipodi:role="line"
+       x="349.03778"
+       y="51.005047"
+       style="font-size:12.24873924px;font-weight:500;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       id="tspan4814">Daftar Fitur</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path4796"
+     d="m 271.37286,67.011183 156.15521,0"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text4798"
+     y="82.939224"
+     x="349.03778"
+     style="font-size:12.24873924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     xml:space="preserve"
+     transform="scale(0.99989903,1.000101)"><tspan
+       style="font-size:12.24873924px;font-weight:500;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="82.939224"
+       x="349.03778"
+       sodipodi:role="line"
+       id="tspan4800">Build Feature List</tspan></text>
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 271.37286,89.761133 156.15521,0"
+     id="path4802"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-size:12.24873924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     x="275.94708"
+     y="117.93559"
+     id="text4804"
+     sodipodi:linespacing="125%"
+     transform="scale(0.99989903,1.000101)"><tspan
+       id="tspan4810"
+       sodipodi:role="line"
+       x="275.94708"
+       y="117.93559"
+       style="font-size:10.49891949px;font-weight:500;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium">Identifikasi Fitur</tspan><tspan
+       sodipodi:role="line"
+       x="275.94708"
+       y="129.28505"
+       style="font-size:8.74909878px;font-style:italic;font-weight:500;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium Italic"
+       id="tspan3115">Identification of Features</tspan><tspan
+       sodipodi:role="line"
+       x="275.94708"
+       y="140.22142"
+       style="font-size:10.49891949px;font-weight:500;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       id="tspan4966" /><tspan
+       sodipodi:role="line"
+       x="275.94708"
+       y="152.93198"
+       style="font-size:10.49891949px;font-weight:500;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       id="tspan4821">Dokumentasi Daftar Fitur</tspan><tspan
+       sodipodi:role="line"
+       x="275.94708"
+       y="164.28145"
+       style="font-size:8.74909878px;font-style:italic;font-weight:500;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium Italic"
+       id="tspan3117">Documentation of Feature List</tspan></text>
+  <rect
+     style="fill:#c6c6c6;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.023;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="rect4823"
+     width="155.14354"
+     height="212.35667"
+     x="481.89423"
+     y="14.958846"
+     ry="11.062101"
+     rx="11.059868" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text4825"
+     y="35.694122"
+     x="559.01617"
+     style="font-size:12.24873924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     xml:space="preserve"
+     transform="scale(0.99989903,1.000101)"><tspan
+       id="tspan4829"
+       style="font-size:12.24873924px;font-weight:500;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="35.694122"
+       x="559.01617"
+       sodipodi:role="line">Perencanaan</tspan><tspan
+       style="font-size:12.24873924px;font-weight:500;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="51.005047"
+       x="559.01617"
+       sodipodi:role="line"
+       id="tspan4847">Berbasis Fitur</tspan></text>
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 481.33004,67.011183 156.15521,0"
+     id="path4831"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-size:12.24873924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     x="559.01617"
+     y="82.939224"
+     id="text4833"
+     sodipodi:linespacing="125%"
+     transform="scale(0.99989903,1.000101)"><tspan
+       id="tspan4835"
+       sodipodi:role="line"
+       x="559.01617"
+       y="82.939224"
+       style="font-size:12.24873924px;font-weight:500;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium">Plan By Feature</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path4837"
+     d="m 481.33004,89.761133 156.15521,0"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text4839"
+     y="117.93559"
+     x="485.92548"
+     style="font-size:10.49891949px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+     xml:space="preserve"
+     transform="scale(0.99989903,1.000101)"><tspan
+       style="font-size:10.49891949px;font-style:normal;font-weight:500;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="117.93559"
+       x="485.92548"
+       sodipodi:role="line"
+       id="tspan4841">Pengelompokan Fitur ke</tspan><tspan
+       style="font-size:10.49891949px;font-style:normal;font-weight:500;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="131.05923"
+       x="485.92548"
+       sodipodi:role="line"
+       id="tspan4962">dalam Module Berbasis</tspan><tspan
+       style="font-size:10.49891949px;font-style:normal;font-weight:500;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="144.18288"
+       x="485.92548"
+       sodipodi:role="line"
+       id="tspan3206">Prioritas</tspan><tspan
+       style="font-size:8.74909878px;font-style:italic;font-weight:500;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="155.53235"
+       x="485.92548"
+       sodipodi:role="line"
+       id="tspan3121">Grouping features into module</tspan><tspan
+       style="font-size:8.74909878px;font-style:italic;font-weight:500;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="166.46872"
+       x="485.92548"
+       sodipodi:role="line"
+       id="tspan3208">based on Priority</tspan><tspan
+       style="font-size:10.49891949px;font-style:normal;font-weight:500;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="177.40509"
+       x="485.92548"
+       sodipodi:role="line"
+       id="tspan4964" /><tspan
+       style="font-size:10.49891949px;font-style:normal;font-weight:500;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="190.11565"
+       x="485.92548"
+       sodipodi:role="line"
+       id="tspan3204">Distribusi Module</tspan><tspan
+       style="font-size:8.74909878px;font-style:normal;font-weight:500;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="201.46512"
+       x="485.92548"
+       sodipodi:role="line"
+       id="tspan5013">Distribution of Modules</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text4972"
+     y="318.28995"
+     x="568.16699"
+     style="font-size:12.24873924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     xml:space="preserve"
+     transform="scale(0.99989903,1.000101)"><tspan
+       style="font-size:10.49891949px;font-weight:500;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="318.28995"
+       x="568.16699"
+       sodipodi:role="line"
+       id="tspan4985">Persetujuan Manajemen</tspan><tspan
+       style="font-size:8.74909878px;font-style:italic;font-weight:500;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium Italic"
+       y="329.6394"
+       x="568.16699"
+       sodipodi:role="line"
+       id="tspan3127">Management Approval</tspan></text>
+  <rect
+     rx="11.059868"
+     ry="11.062101"
+     y="364.95816"
+     x="481.89423"
+     height="212.35667"
+     width="155.14354"
+     id="rect4987"
+     style="color:#000000;fill:#c6c6c6;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.023;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <text
+     xml:space="preserve"
+     style="font-size:12.24873924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     x="559.01617"
+     y="385.65802"
+     id="text4989"
+     sodipodi:linespacing="125%"
+     transform="scale(0.99989903,1.000101)"><tspan
+       sodipodi:role="line"
+       x="559.01617"
+       y="385.65802"
+       style="font-size:12.24873924px;font-weight:500;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       id="tspan4991">Perancangan</tspan><tspan
+       id="tspan4993"
+       sodipodi:role="line"
+       x="559.01617"
+       y="400.96893"
+       style="font-size:12.24873924px;font-weight:500;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium">Berbasis Fitur</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path4995"
+     d="m 481.33004,417.01046 156.15521,0"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text4997"
+     y="432.90317"
+     x="559.01617"
+     style="font-size:12.24873924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     xml:space="preserve"
+     transform="scale(0.99989903,1.000101)"><tspan
+       style="font-size:12.24873924px;font-weight:500;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="432.90317"
+       x="559.01617"
+       sodipodi:role="line"
+       id="tspan4999">Design By Feature</tspan></text>
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 481.33004,439.76041 156.15521,0"
+     id="path5001"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-size:12.24873924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.0174982px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     x="485.92548"
+     y="467.89954"
+     id="text5003"
+     sodipodi:linespacing="125%"
+     transform="scale(0.99989903,1.000101)"><tspan
+       sodipodi:role="line"
+       x="485.92548"
+       y="467.89954"
+       style="font-size:10.49891949px;font-weight:500;text-align:start;letter-spacing:-0.0174982px;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       id="tspan5011">Pemodelan Obyek, Data dan</tspan><tspan
+       sodipodi:role="line"
+       x="485.92548"
+       y="481.02319"
+       style="font-size:10.49891949px;font-weight:500;text-align:start;letter-spacing:-0.0174982px;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       id="tspan3217">Perilakunya</tspan><tspan
+       sodipodi:role="line"
+       x="485.92548"
+       y="492.37265"
+       style="font-size:8.74909878px;font-style:italic;font-weight:500;text-align:start;letter-spacing:-0.0174982px;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium Italic"
+       id="tspan3198">Object Modelling and</tspan><tspan
+       sodipodi:role="line"
+       x="485.92548"
+       y="503.30902"
+       style="font-size:8.74909878px;font-style:italic;font-weight:500;text-align:start;letter-spacing:-0.0174982px;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium Italic"
+       id="tspan3219">It's Behaviour</tspan><tspan
+       sodipodi:role="line"
+       x="485.92548"
+       y="514.24542"
+       style="font-size:10.49891949px;font-weight:500;text-align:start;letter-spacing:-0.0174982px;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       id="tspan5017" /><tspan
+       sodipodi:role="line"
+       x="485.92548"
+       y="526.95593"
+       style="font-size:10.49891949px;font-weight:500;text-align:start;letter-spacing:-0.0174982px;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       id="tspan3227">Pemaduan Model</tspan><tspan
+       sodipodi:role="line"
+       x="485.92548"
+       y="538.30542"
+       style="font-size:8.74909878px;font-style:italic;font-weight:500;text-align:start;letter-spacing:-0.0174982px;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium Italic"
+       id="tspan3231">Models Integration</tspan></text>
+  <path
+     style="color:#000000;fill:#c6c6c6;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.023;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="m 282.99137,336.96375 c -6.12717,0 -11.04462,4.91845 -11.04462,11.04685 l 0,27.99995 0,162.23013 0,27.99994 c 0,6.1284 4.91745,11.0742 11.04462,11.0742 l 133.02756,0 c 6.12716,0 11.07196,-4.9458 11.07196,-11.0742 l 0,-27.99994 0,-162.23013 0,-27.99995 c 0,-6.1284 -4.9448,-11.04685 -11.07196,-11.04685 l -133.02756,0 z"
+     id="rect3149"
+     inkscape:connector-curvature="0" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text5029"
+     y="357.65631"
+     x="349.03781"
+     style="font-size:12.24873924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     xml:space="preserve"
+     transform="scale(0.99989903,1.000101)"><tspan
+       id="tspan5031"
+       style="font-size:12.24873924px;font-weight:500;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="357.65631"
+       x="349.03781"
+       sodipodi:role="line">Pembangunan</tspan><tspan
+       style="font-size:12.24873924px;font-weight:500;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="372.96722"
+       x="349.03781"
+       sodipodi:role="line"
+       id="tspan5033">Berbasis Fitur</tspan></text>
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 271.37286,389.00593 156.15521,0"
+     id="path5035"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-size:12.24873924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     x="349.03781"
+     y="404.90146"
+     id="text5037"
+     sodipodi:linespacing="125%"
+     transform="scale(0.99989903,1.000101)"><tspan
+       id="tspan5039"
+       sodipodi:role="line"
+       x="349.03781"
+       y="404.90146"
+       style="font-size:12.24873924px;font-weight:500;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium">Build By Feature</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path5041"
+     d="m 271.37286,411.75588 156.15521,0"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text5043"
+     y="439.89783"
+     x="275.94705"
+     style="font-size:12.24873924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.0174982px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     xml:space="preserve"
+     transform="scale(0.99989903,1.000101)"><tspan
+       style="font-size:10.49891949px;font-weight:500;text-align:start;letter-spacing:-0.0174982px;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="439.89783"
+       x="275.94705"
+       sodipodi:role="line"
+       id="tspan5069">Pembangunan Module Dan</tspan><tspan
+       style="font-size:10.49891949px;font-weight:500;text-align:start;letter-spacing:-0.0174982px;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="453.02148"
+       x="275.94705"
+       sodipodi:role="line"
+       id="tspan3135">Kontennya</tspan><tspan
+       style="font-size:8.74909878px;font-style:italic;font-weight:500;text-align:start;letter-spacing:-0.0174982px;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium Italic"
+       y="464.37094"
+       x="275.94705"
+       sodipodi:role="line"
+       id="tspan3131">Module Development &amp; Its Contents</tspan><tspan
+       style="font-size:10.49891949px;font-weight:500;text-align:start;letter-spacing:-0.0174982px;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="475.30731"
+       x="275.94705"
+       sodipodi:role="line"
+       id="tspan5047" /><tspan
+       id="tspan5049"
+       style="font-size:10.49891949px;font-weight:500;text-align:start;letter-spacing:-0.0174982px;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="488.01788"
+       x="275.94705"
+       sodipodi:role="line">Pengujian Unit</tspan><tspan
+       style="font-size:8.74909878px;font-style:italic;font-weight:500;text-align:start;letter-spacing:-0.0174982px;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium Italic"
+       y="499.36734"
+       x="275.94705"
+       sodipodi:role="line"
+       id="tspan3139">Unit Test</tspan><tspan
+       id="tspan5059"
+       style="font-size:10.49891949px;font-weight:500;text-align:start;letter-spacing:-0.0174982px;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="510.30371"
+       x="275.94705"
+       sodipodi:role="line" /><tspan
+       style="font-size:10.49891949px;font-weight:500;text-align:start;letter-spacing:-0.0174982px;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="523.01428"
+       x="275.94705"
+       sodipodi:role="line"
+       id="tspan5093">Pengujian Integrasi</tspan><tspan
+       style="font-size:8.74909878px;font-style:italic;font-weight:500;text-align:start;letter-spacing:-0.0174982px;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium Italic"
+       y="534.36371"
+       x="275.94705"
+       sodipodi:role="line"
+       id="tspan3141">Integration Test</tspan><tspan
+       style="font-size:10.49891949px;font-weight:500;text-align:start;letter-spacing:-0.0174982px;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="545.30011"
+       x="275.94705"
+       sodipodi:role="line"
+       id="tspan5095" /><tspan
+       style="font-size:10.49891949px;font-weight:500;text-align:start;letter-spacing:-0.0174982px;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="558.01068"
+       x="275.94705"
+       sodipodi:role="line"
+       id="tspan5097">Pengujian Sistem</tspan><tspan
+       style="font-size:8.74909878px;font-style:italic;font-weight:500;text-align:start;letter-spacing:-0.0174982px;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium Italic"
+       y="569.36011"
+       x="275.94705"
+       sodipodi:role="line"
+       id="tspan3143">Sistem Test</tspan></text>
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.04500008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
+     d="m 139.55166,470.9755 0,159.4506"
+     id="path5099"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path5101"
+     d="m 559.46602,863.07965 0,-275.29842"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.04500008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutM)" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.04500008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
+     d="m 137.84084,471.13649 134.21225,0"
+     id="path5105"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path5107"
+     d="m 140.77888,628.63617 420.4606,0"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.04500008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none" />
+  <rect
+     transform="matrix(0.70112171,0.71304162,-0.70112171,0.71304162,0,0)"
+     y="183.19942"
+     x="681.61603"
+     height="16.811083"
+     width="16.811083"
+     id="rect5103"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.0001421;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path5109"
+     d="m 349.45047,639.672 0,54.13433"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.04500008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutM)" />
+  <text
+     xml:space="preserve"
+     style="font-size:12.24873924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     x="337.4382"
+     y="649.00586"
+     id="text5111"
+     sodipodi:linespacing="125%"
+     transform="scale(0.99989903,1.000101)"><tspan
+       sodipodi:role="line"
+       x="337.4382"
+       y="649.00586"
+       style="font-size:10.49891949px;font-weight:500;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       id="tspan5119">Lolos Pengujian</tspan><tspan
+       sodipodi:role="line"
+       x="337.4382"
+       y="662.12952"
+       style="font-size:10.49891949px;font-weight:500;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       id="tspan5121">Indeks Penerimaan</tspan><tspan
+       sodipodi:role="line"
+       x="337.4382"
+       y="673.47894"
+       style="font-size:8.74909878px;font-style:italic;font-weight:500;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       id="tspan3196">Passed Acceptance Index Testing</tspan></text>
+  <path
+     sodipodi:type="arc"
+     style="color:#000000;fill:#c6c6c6;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.17932749;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="path5125"
+     sodipodi:cx="443"
+     sodipodi:cy="974.95001"
+     sodipodi:rx="77"
+     sodipodi:ry="77"
+     d="m 520,974.95001 a 77,77 0 1 1 -154,0 77,77 0 1 1 154,0 z"
+     transform="matrix(0.63623388,0,0,0.63636236,67.688244,133.20758)" />
+  <text
+     xml:space="preserve"
+     style="font-size:12.24873924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     x="348.69919"
+     y="742.8999"
+     id="text4790-6"
+     sodipodi:linespacing="125%"
+     transform="scale(0.99989903,1.000101)"><tspan
+       id="tspan4794-7"
+       sodipodi:role="line"
+       x="348.69919"
+       y="742.8999"
+       style="font-size:12.24873924px;font-weight:500;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium">Penyerahan</tspan><tspan
+       sodipodi:role="line"
+       x="348.69919"
+       y="758.21082"
+       style="font-size:12.24873924px;font-weight:500;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       id="tspan4814-5">Fitur</tspan><tspan
+       sodipodi:role="line"
+       x="348.69919"
+       y="771.74756"
+       style="font-size:10.49891949px;font-style:italic;font-weight:500;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium Italic"
+       id="tspan3239">Feature Delivery</tspan></text>
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.04500008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
+     d="m 349.45026,801.96562 0,51.45012"
+     id="path5180"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path5182"
+     d="m 349.45026,874.17148 0,54.13439"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.04500008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutM)" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.04500008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
+     d="m 359.09749,862.67759 202.11464,0"
+     id="path5184"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <rect
+     transform="matrix(0.70703539,0.70717817,-0.70703539,0.70717817,0,0)"
+     y="354.3446"
+     x="848.59222"
+     height="16.950468"
+     width="16.950468"
+     id="rect5186"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+  <path
+     transform="matrix(0.63623388,0,0,0.63636236,67.688244,367.97975)"
+     d="m 520,974.95001 a 77,77 0 1 1 -154,0 77,77 0 1 1 154,0 z"
+     sodipodi:ry="77"
+     sodipodi:rx="77"
+     sodipodi:cy="974.95001"
+     sodipodi:cx="443"
+     id="path5188"
+     style="color:#000000;fill:#c6c6c6;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.17932749;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     sodipodi:type="arc" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text5190"
+     y="977.64844"
+     x="348.91971"
+     style="font-size:12.24873924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     xml:space="preserve"
+     transform="scale(0.99989903,1.000101)"><tspan
+       style="font-size:12.24873924px;font-weight:500;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="977.64844"
+       x="348.91971"
+       sodipodi:role="line"
+       id="tspan5192">Penyerahan</tspan><tspan
+       id="tspan5194"
+       style="font-size:12.24873924px;font-weight:500;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="992.95935"
+       x="348.91971"
+       sodipodi:role="line">Sistem</tspan><tspan
+       style="font-size:10.49891949px;font-style:italic;font-weight:500;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium Italic"
+       y="1006.4961"
+       x="348.91971"
+       sodipodi:role="line"
+       id="tspan3243">System Delivery</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text5204"
+     y="890.48096"
+     x="337.4382"
+     style="font-size:12.24873924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     xml:space="preserve"
+     transform="scale(0.99989903,1.000101)"><tspan
+       id="tspan5208"
+       style="font-size:10.49891949px;font-weight:500;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="890.48096"
+       x="337.4382"
+       sodipodi:role="line">Seluruh Fitur</tspan><tspan
+       style="font-size:10.49891949px;font-weight:500;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="903.60461"
+       x="337.4382"
+       sodipodi:role="line"
+       id="tspan5212">Selesai</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:20.99783897px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#787878;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     x="58.75721"
+     y="297.29211"
+     id="text3901"
+     sodipodi:linespacing="125%"
+     transform="scale(0.99989903,1.000101)"><tspan
+       id="tspan3905"
+       sodipodi:role="line"
+       x="58.75721"
+       y="297.29211"
+       style="font-size:20.99783897px;font-weight:500;text-align:start;text-anchor:start;fill:#787878;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium">Tahap 1</tspan><tspan
+       sodipodi:role="line"
+       x="58.75721"
+       y="312.89429"
+       style="font-size:10.49891949px;font-style:italic;font-weight:500;text-align:start;text-anchor:start;fill:#787878;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       id="tspan3233">Stage 1</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text3909"
+     y="477.52356"
+     x="58.75721"
+     style="font-size:20.99783897px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#787878;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     xml:space="preserve"
+     transform="scale(0.99989903,1.000101)"><tspan
+       style="font-size:20.99783897px;font-weight:500;text-align:start;text-anchor:start;fill:#787878;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+       y="477.52356"
+       x="58.75721"
+       sodipodi:role="line"
+       id="tspan3911">Tahap 2</tspan><tspan
+       style="font-size:10.49891949px;font-style:italic;font-weight:500;text-align:start;text-anchor:start;fill:#787878;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium Italic"
+       y="493.12573"
+       x="58.75721"
+       sodipodi:role="line"
+       id="tspan3235">Stage 2</tspan></text>
+</svg>
